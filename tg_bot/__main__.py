@@ -22,7 +22,7 @@ Hey {} ! My name is {} - I'm here to help you manage your groups!... Click /Help
 
 Made with love by [this guy](tg://user?id={}). 💓
 
-My future updates will be put into This Channel - @ONE9NETWORK
+My future updates will be put into This Group - @QUEENBOTCHAT If You Need Any Help Regarding Bot You Can Message [Here](https://t.me/QUEENBOTCHAT) 
 
 I'm built in python3, using the python-telegram-bot library.
 
