@@ -20,9 +20,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hey {} ! My name is {} - I'm here to help you manage your groups!... Click /Help  to find out more about how to use me to my full potential.
 
-Made with love by [this guy](tg://user?id={}).
+Made with love by [this guy](tg://user?id={}). 💓
 
-My future updates will be put into This Group - @CuratorCrew
+My future updates will be put into This Channel - @ONE9NETWORK
 
 I'm built in python3, using the python-telegram-bot library.
 
