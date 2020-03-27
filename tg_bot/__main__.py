@@ -22,8 +22,6 @@ Hey {} ! My name is {} - I'm here to help you manage your groups!... Click /Help
 
 Made with love by [this guy](tg://user?id={}). 💓🙈
 
-My future updates will be put into This Group - @ONE9BOTS
-
 You can find the list of available commands with /help.👍
 
 If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
