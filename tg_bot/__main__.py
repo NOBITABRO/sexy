@@ -22,7 +22,7 @@ Hey {} ! My name is {} - I'm here to help you manage your groups!... Click /Help
 
 Made with love by [this guy](tg://user?id={}). 💓🙈
 
-My future updates will be put into This Group - @ONE9BOTS
+My future updates will be put into This Group - @QueenBotChat 
 
 You can find the list of available commands with /help.👍
 
